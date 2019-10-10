@@ -30,7 +30,7 @@
   "bundleDependencies": false,
   "contributors": [],
   "dependencies": {
-    "minimatch": "^2.0.9"
+    "minimatch": "^3.0.4"
   },
   "deprecated": false,
   "description": "Open recent files in the current window, and recent folders (optionally) in a new window.",
